@@ -1,23 +1,6 @@
-<!doctype html>
-<html lang="en" ng-app="app">
-<head>
-  <meta charset="utf-8">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-</head>
-	 
-
-<body>
-<!-- You can use pre tag too
- <pre><code class="language-mermaid">graph TD
-  A--&gt;B
-
-</code></pre>
-
-Visit this link to encode text to html entities. Check all the TWO boxes
-https://mothereff.in/html-entities
 
 
- -->
+
  
 <div class="mermaid">
 graph TB
@@ -37,15 +20,13 @@ D -- Planning   --&gt;E[&lt;center&gt;&lt;b&gt; 2nd Aug Friday 11:45am&lt;/b&gt;
 </div>
 <!--      =============End mermaid=====================  -->
 
-<!--      =============Now embed markdown into html =====================  -->
 
 
 
-  <div id="content"></div>
+<div id="content"></div>
 
 
-	
-</body>
+
 
 
 <script>
@@ -61,22 +42,10 @@ mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script>
-    var mtxt="";
-	mtxt="## Heading 2\n "+
-	"1) Mr Sunny Neo SP:Harry Teo\n\n"+
-    "\t &diams;Food delivery(18/06/19)(Serving community)\n"
-  
-	
-    document.getElementById('content').innerHTML =marked(mtxt);
-	  
-   
-	     
-</script>
+
 
  
   
-</html>
+
 
 ### cc
