@@ -35,7 +35,28 @@ D -- Planning   --&gt;E[&lt;center&gt;&lt;b&gt; 2nd Aug Friday 11:45am&lt;/b&gt;
 
 
 </div>
+<!--      =============End mermaid=====================  -->
 
+<!--      =============Now embed markdown into html =====================  -->
+
+
+
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    var mtxt="";
+	
+	mtxt="## Heading 2\n Diamond code: &#2666"
+	
+	
+	
+    document.getElementById('content').innerHTML =
+      marked(mtxt);
+	  
+	  
+	  
+	  
+  </script>
 
 	
 </body>
