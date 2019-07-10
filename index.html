@@ -42,21 +42,7 @@ D -- Planning   --&gt;E[&lt;center&gt;&lt;b&gt; 2nd Aug Friday 11:45am&lt;/b&gt;
 
 
   <div id="content"></div>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    var mtxt="";
-	
-	mtxt="## Heading 2\n Diamond code: &#2666"
-	
-	
-	
-    document.getElementById('content').innerHTML =
-      marked(mtxt);
-	  
-	  
-	  
-	  
-  </script>
+
 
 	
 </body>
@@ -75,10 +61,19 @@ mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 
-
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    var mtxt="";
+	mtxt="## Heading 2\n Diamond code: &#2666";
+	
+    document.getElementById('content').innerHTML =marked(mtxt);
+	  
+   
+	  
+</script>
 
 
   
 </html>
 
-### HG Whampoa
+asdf
