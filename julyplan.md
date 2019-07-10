@@ -1,7 +1,14 @@
 
+<!--
+To convert Stackedit mermaid text to html entities visit
+https://mothereff.in/html-entities
+-->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js">
 </script>
+ 
+ 
+<a href="index.html"><i class="fa fa-reply fa-3x"></i></a> 
  
 <div class="mermaid">
 graph TB
@@ -24,7 +31,6 @@ D -- Planning   --&gt;E[&lt;center&gt;&lt;b&gt; 2nd Aug Friday 11:45am&lt;/b&gt;
 
 
 
-<div id="content"></div>
 
 
 
