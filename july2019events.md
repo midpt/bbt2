@@ -19,3 +19,4 @@
   &diams;Food delivery(2/07/19)(Serving community with a sense of satisfaction)   
   &diams;Visit Mdm Koo and Mdm Kway and showing Blessing event at South Africa (4/07/19)(Serving elderly and practising filial piety)
 	
+  
