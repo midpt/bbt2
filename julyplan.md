@@ -3,8 +3,8 @@
 To convert Stackedit mermaid text to html entities visit
 https://mothereff.in/html-entities
 -->
-
-<title>BBT2</title>
+<title>{{page.title}}</title>
+<h1>{{page.title}}</h1>
 
 <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>	
 
@@ -59,4 +59,4 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
   
 
 
-### ddd
+### jjj
