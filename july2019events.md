@@ -2,11 +2,11 @@
 
 <a href="index.html" title="Return"><i class="fa fa-reply fa-3x"></i></a> 
 
-ddd
+aa
 
 ## HG monitoring list between mid June to mid July 2019
 
-### 1) Mr Sunny Neo SP:Harry Teo  
+<b>1) Mr Sunny Neo SP:Harry Teo  </b>   
 &diams;Food delivery(18/06/19)(Serving community with a sense of satisfaction)  
 &diams;Food delivery(25/06/19)(Serving community with a sense of satisfaction)   
 &diams;Buddha Gaya temple visit (27/06/19)(Promote inter-religious harmony)  
@@ -14,7 +14,7 @@ ddd
 &diams;Visit Mdm Koo and Mdm Kway and showing Blessing event at South Africa (4/07/19)(Serving elderly and practising filial piety)
 
   
-### 2) Ms Doris SP:Harry Teo  
+<b>2) Ms Doris SP:Harry Teo    </b>   
   &diams;Food delivery(18/06/19)(Serving community with a sense of satisfaction)  
   &diams;Food delivery(25/06/19)(Serving community with a sense of satisfaction)   
   &diams;Buddha Gaya temple visit (27/06/19)(Promote inter-religious harmony)  
@@ -22,17 +22,17 @@ ddd
   &diams;Visit Mdm Koo and Mdm Kway and showing Blessing event at South Africa (4/07/19)(Serving elderly and practising filial piety)
 	
 	
-### 3) Mr Bernard Moey SP: Harry Teo
+<b>3) Mr Bernard Moey SP: Harry Teo  </b>   
   &diams;Buddha Gaya temple visit (27/06/19) (Promote inter-religious harmony) 
 
   
-### 4) Bro Kenny's mum Mdm Oh Lan SP: Bro Kenny
+<b>4) Bro Kenny's mum Mdm Oh Lan SP: Bro Kenny  </b>   
   &diams;Buddha Gaya temple visit (27/06/19) (Promote inter-religious harmony) 
 
   
-### 5)Mdm Koo Kar Kee SP:Harry Teo
+<b>5)Mdm Koo Kar Kee SP:Harry Teo  </b>   
   &diams;Chit chat with Mdm Koo (4/07/19) (Appreciate our care and concern)
 
   
-### 6)Mdm Kway See Lan
+<b>6)Mdm Kway See Lan  </b>   
   &diams;Chit chat with Mdm Kway (4/07/19) (Appreciate our care and concern)  
