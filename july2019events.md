@@ -5,31 +5,33 @@
 
 ## HG monitoring list between mid June to mid July 2019
 
-### 1)\. Mr Sunny Neo SP:Harry Teo  
+### 1) Mr Sunny Neo SP:Harry Teo  
   &diams;Food delivery(18/06/19)(Serving community with a sense of satisfaction)  
   &diams;Food delivery(25/06/19)(Serving community with a sense of satisfaction)   
   &diams;Buddha Gaya temple visit (27/06/19)(Promote inter-religious harmony)  
   &diams;Food delivery(2/07/19)(Serving community with a sense of satisfaction)  
   &diams;Visit Mdm Koo and Mdm Kway and showing Blessing event at South Africa (4/07/19)(Serving elderly and practising filial piety)
 
-### 2)\. Ms Doris SP:Harry Teo  
+  
+### 2) Ms Doris SP:Harry Teo  
   &diams;Food delivery(18/06/19)(Serving community with a sense of satisfaction)  
   &diams;Food delivery(25/06/19)(Serving community with a sense of satisfaction)   
   &diams;Buddha Gaya temple visit (27/06/19)(Promote inter-religious harmony)  
   &diams;Food delivery(2/07/19)(Serving community with a sense of satisfaction)   
   &diams;Visit Mdm Koo and Mdm Kway and showing Blessing event at South Africa (4/07/19)(Serving elderly and practising filial piety)
 	
+	
 ### 3) Mr Bernard Moey SP: Harry Teo
   &diams;Buddha Gaya temple visit (27/06/19) (Promote inter-religious harmony) 
 
+  
 ### 4) Bro Kenny's mum Mdm Oh Lan SP: Bro Kenny
   &diams;Buddha Gaya temple visit (27/06/19) (Promote inter-religious harmony) 
 
-
+  
 ### 5)Mdm Koo Kar Kee SP:Harry Teo
   &diams;Chit chat with Mdm Koo (4/07/19) (Appreciate our care and concern)
 
-
-
+  
 ### 6)Mdm Kway See Lan
   &diams;Chit chat with Mdm Kway (4/07/19) (Appreciate our care and concern)  
